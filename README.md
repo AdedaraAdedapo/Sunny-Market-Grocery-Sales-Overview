@@ -16,7 +16,7 @@ The data used for this analysis was obtained directly from the provided link.  [
   iii. Data Analysis
 
   iv. Data Visualization
-
+  
 ## Data Collected
 - Invoice ID: A unique identifier assigned to each transaction for tracking and reference.
 - Branch: The specific Sunny Market branch where the transaction occurred.
@@ -33,4 +33,12 @@ The data used for this analysis was obtained directly from the provided link.  [
 - Payment: The payment method used, such as cash, e wallet, credit card
 
 ## Findings and Insights
+- ### Branch Sales Performance
+    In the first quarter of 2019, Sunny Market achieved a total sales revenue of $322,967. Branch C led the way in 
+  contributions, generating $110,568, which accounts for 34.24% of the total earnings. This impressive performance by Branch A 
+  highlights its significant role in driving the market's overall revenue during this period. The data underscores Branch C's 
+  strong impact within Sunny Market's operations in the first quarter, setting a high benchmark for other branches.
 
+- ### Sales Performance of product line by Gender
+  
+  
