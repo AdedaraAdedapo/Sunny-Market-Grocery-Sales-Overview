@@ -1,12 +1,12 @@
-# Sunny-Market-Grocery-Sales-Overview
-This repository provides an in-depth overview of Sunny Market’s sales performance for the first quarter of 2019. It captures key metrics such as sales performance across branches, customer preferences segmented by gender, customer types, daily sales trends, and transaction methods across different cities. Additionally, it includes detailed records of product line taxes. The dashboard is designed to facilitate analysis of these sales trends, helping management make data-driven decisions to enhance overall performance and better understand customer behaviors.    
-## Project Overview
+## Sunny-Market-Grocery-Sales
+   
+### Project Overview
 The analysis centers on examining Sunny Market’s sales performance by calculating essential metrics. These include total sales revenue, the number of transactions, comprehensive tax records, and the average transaction value. By focusing on these key figures, the analysis provides a clearer picture of sales dynamics, offering valuable insights into overall revenue generation and customer spending patterns at Sunny Market
 
-## Data Source
+### Data Source
 The data used for this analysis was obtained directly from the provided link.  [Download Here](https://github.com/user-attachments/files/17647510/supermarket_sales.csv)
 
-## Tools Used
+### Tools Used
 - Microsoft Power BI
 
   i. Data Entry
@@ -17,7 +17,7 @@ The data used for this analysis was obtained directly from the provided link.  [
 
   iv. Data Visualization
   
-## Data Collected
+### Data Collected
 - Invoice ID: A unique identifier assigned to each transaction for tracking and reference.
 - Branch: The specific Sunny Market branch where the transaction occurred.
 - City: The city in which the branch is located.
@@ -32,7 +32,7 @@ The data used for this analysis was obtained directly from the provided link.  [
 - Time: The exact time of the transaction, useful for analyzing peak shopping hours.
 - Payment: The payment method used, such as cash, e wallet, credit card
 
-## Findings and Insights
+### Findings and Insights
 - ### Branch Sales Performance
     In the first quarter of 2019, Sunny Market achieved a total sales revenue of $322,967. Branch C led the way in 
   contributions, generating $110,568, which accounts for 34.24% of the total earnings. This impressive performance by Branch A 
