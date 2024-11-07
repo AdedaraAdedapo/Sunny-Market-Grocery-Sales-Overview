@@ -31,3 +31,6 @@ The data used for this analysis was obtained directly from the provided link.  [
 - Date: The date when the transaction was made.
 - Time: The exact time of the transaction, useful for analyzing peak shopping hours.
 - Payment: The payment method used, such as cash, e wallet, credit card
+
+## Findings and Insights
+
