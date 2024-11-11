@@ -35,6 +35,21 @@ The data used for this analysis was obtained directly from the provided link.  [
 - Date: The date when the transaction was made.
 - Time: The exact time of the transaction, useful for analyzing peak shopping hours.
 - Payment: The payment method used, such as cash, e wallet, credit card
+  
+## Project Objectives
+- Evaluate Performance Across Branches: Analyze the sales performance across the 3 branches, identifying trends and differences in monthly sales figures among them.
+
+- Total Sales by Product Line and Gender: Assess total sales for each of the 6 product lines, segmented by gender. This will help understand customer preferences and demand for each product line by gender.
+
+- Customer Type Segmentation: Break down sales data by customer type to understand the proportion of repeat versus new customers and how each type contributes to monthly sales.
+
+- Daily Performance Tracking: Monitor and analyze daily sales performance to identify peak sales days, spot any day-specific trends, and assess consistency in sales throughout the month.
+
+- Sales Comparison Between Cities: Compare monthly sales figures for the two cities to uncover regional differences in customer behavior and sales volume.
+
+- Transaction Method Analysis by City: Review and analyze the transaction methods used in each city (e.g., online, in-store, or mobile transactions) to determine city-specific preferences and identify potential areas for optimizing transaction processes.
+  
+- Product Line Tax Records: Maintain detailed records of the tax contributions for each product line, ensuring compliance with tax regulations.Highlight product lines with significant tax contributions, and set goals to optimize tax-related processes.
 
 ## Visualization
 
