@@ -17,7 +17,7 @@ The analysis centers on examining Sunny Market’s sales performance by calculat
 
 ## Data Source
 
-The data used for this analysis was obtained directly from the provided link.  [Download Here](https://github.com/user-attachments/files/17647510/supermarket_sales.csv)
+The data used for this analysis was obtained directly from Kaggle with the provided link.  [Download Here](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 ## Tools Used
 
