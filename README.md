@@ -64,7 +64,12 @@ The data used for this analysis was obtained directly from the provided link.  [
 
 ## Visualization
 
-![qwe](https://github.com/user-attachments/assets/581a4323-2fd1-4b8a-893f-f1c024caac47)
+![Sunny](https://github.com/user-attachments/assets/c4e602b0-3707-4535-9e30-17a84f4efab8)
+
+![ase](https://github.com/user-attachments/assets/e2574c81-ab7e-49f6-8c61-d635820f728b)
+
+
+
 
 
 
