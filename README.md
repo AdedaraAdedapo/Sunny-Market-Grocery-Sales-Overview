@@ -98,6 +98,9 @@ The data used for this analysis was obtained directly from Kaggle with the provi
 - ### Customer Type Sales Performance
    Members contribute 50.85% of total sales, indicating a balanced mix of member and non-member shoppers. This also shows that membership benefits are attractive enough to maintain a strong base of regular customers, but that non-members still form a large portion of Sunny Market’s clientele.
 
+- ### Product Line Tax Records
+  Product line tax records reveal that different categories contribute varying amounts to tax revenue, driven by pricing, sales volume, and tax rates. High-demand categories like Food and Beverages and Sport and Travel contribute significantly, reflecting their strong sales.
+
  ## Recommendations
  - Branches A and B could adopt some of the successful strategies from Branch C. This might include analyzing which products or promotions perform best in Branch C and replicating these elements in the other locations. Organizing a “Branch Challenge” that rewards the highest-performing location each month could drive healthy competition among teams, motivating each branch to find innovative ways to improve service quality and customer satisfaction. Localized in-store promotions, such as weekend events or “Local Favorites” displays, could also enhance foot traffic in Branch A and B.
 
@@ -112,6 +115,8 @@ The data used for this analysis was obtained directly from Kaggle with the provi
 - Ensuring that each branch is fully equipped and prepared to handle its preferred payment method will streamline the checkout process and create a more positive shopping experience. Additionally, incentivizing e-wallet use in cities where digital payments are less common could promote faster, more secure transactions. Sunny Market could consider offering a 5% discount or cashback for e-wallet payments in cash-dominant Naypyitaw, while providing loyalty points for credit card use in Mandalay to increase digital engagement.
 
 - To grow the member base, consider exclusive “Member-Only” benefits like special discounts, priority access to new products, or even a monthly “Members’ Day” with increased rewards. Additionally, offering non-members incentives to sign up at checkout—such as a one-time 10% discount or extra points for their first purchase—could encourage more shoppers to join the program. These efforts would not only strengthen customer loyalty but also provide Sunny Market with valuable data on shopping behaviors, enhancing the effectiveness of future marketing strategies.
+  
+- Sunny Market should focus on promoting products with lower tax rates to boost profitability. Regularly reviewing tax data helps refine pricing, identify tax-efficient products, and optimize inventory. Keeping detailed tax records allows for better forecasting, inventory management, and targeted promotions, supporting long-term growth and minimizing tax liabilities.
 
 
 
