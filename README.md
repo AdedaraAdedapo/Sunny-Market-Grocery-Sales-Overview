@@ -79,11 +79,52 @@ The data used for this analysis was obtained directly from Kaggle with the provi
 ## Findings and Insights
 
 - ### Branch Sales Performance
-    In the first quarter of 2019, Sunny Market achieved a total sales revenue of $322,967. Branch C led the way in 
-  contributions, generating $110,568, which accounts for 34.24% of the total earnings. This impressive performance by Branch A 
-  highlights its significant role in driving the market's overall revenue during this period. The data underscores Branch C's 
-  strong impact within Sunny Market's operations in the first quarter, setting a high benchmark for other branches.
+    The three branches exhibit a closely matched sales performance, with Branch C slightly leading the pack with 34.24% of total sales. This consistency shows that Sunny Market has established a steady demand across locations. However, a closer look reveals potential to optimize Branch A and B’s performance, bringing them in line with or beyond Branch C’s output. There may be untapped demand in those areas that could be met with enhanced store layout, additional services, or better promotional activities.
+  
+- ### Product Line Sales Distribution
+  The relatively even distribution among product lines, with Food and Beverages slightly leading, suggests that Sunny Market’s diverse product range resonates well with customers. This balance across product lines, however, could mean that certain high-margin products aren’t reaching their potential, as no single category has emerged as a clear favorite.
 
 - ### Sales Performance of product line by Gender
+  Gender-specific sales trends show that female customers prefer Food and Beverages, while male customers tend to buy more from the Health and Beauty line. This insight suggests that different product categories are likely associated with specific customer needs or preferences, which can inform targeted marketing efforts and in-store product placement.
+
+- ### Daily Sales Performance
+  Sales are highest on Saturdays and lowest on Mondays, likely due to typical shopping behaviors. With Saturday bringing in $36,120.81 in sales, it’s clear that weekends are when most customers prefer to shop, possibly using their time off to restock household essentials. Meanwhile, Monday’s quieter day with $3,789.90 in sales presents an opportunity to increase traffic and improve the store’s overall weekly revenue.
+
+- ### Sales by City
+   Naypyitaw leads in city-based sales at $110,568, marginally outpacing Yangon and Mandalay. This shows a slightly higher concentration of shoppers in Naypyitaw but also emphasizes Sunny Market’s ability to reach a broad audience across regions. Each city’s sales performance offers insight into regional demand, indicating potential areas for growth and targeted marketing.
+
+- ### Preferred Transaction Methods by City
+  Each city shows a preference for different transaction methods, with Yangon favoring e-wallets, Naypyitaw preferring cash, and Mandalay using credit cards the most. This diverse payment behavior reflects the importance of convenience and comfort in each area’s shopping habits.
+
+- ### Customer Type Sales Performance
+   Members contribute 50.85% of total sales, indicating a balanced mix of member and non-member shoppers. This also shows that membership benefits are attractive enough to maintain a strong base of regular customers, but that non-members still form a large portion of Sunny Market’s clientele.
+
+ ## Recommendations
+ - Branches A and B could adopt some of the successful strategies from Branch C. This might include analyzing which products or promotions perform best in Branch C and replicating these elements in the other locations. Organizing a “Branch Challenge” that rewards the highest-performing location each month could drive healthy competition among teams, motivating each branch to find innovative ways to improve service quality and customer satisfaction. Localized in-store promotions, such as weekend events or “Local Favorites” displays, could also enhance foot traffic in Branch A and B.
+
+- Since each product line is performing well, Sunny Market could capitalize on this interest by launching rotating weekly spotlights or themed promotions. For example, a “Food and Beverage Fest” could offer discounts on select items, while “Tech Tuesdays” or “Fashion Fridays” could focus on electronics and fashion accessories. This approach not only diversifies customers’ interest but also brings attention to under-promoted items, enhancing overall basket size. Additionally, small cross-promotions, like pairing Food and Beverages with a discount on Home and Lifestyle products, could encourage customers to explore different sections of the store.
+ 
+- Use this gender preference insight to tailor promotions and layout within stores. For instance, placing Health and Beauty items near sections frequently visited by male customers, or promoting these items with bold in-store signage, can encourage additional purchases. Similarly, a dedicated Food and Beverages area with female-centric promotions, such as family meal packages or health-conscious snacks, could increase engagement with female customers. Targeted email campaigns could also be effective, offering special discounts on favored categories to each demographic, creating a more personalized shopping experience.
+
+- A “Monday Special” promotion, offering a 10% discount or bundle deals on select items, could incentivize more customers to shop at the start of the week. Sunny Market could also consider running weekend previews on Mondays, giving early-week shoppers a chance to buy popular weekend items at a discount. These weekday deals could be marketed via email or SMS to remind customers of the added value in shopping early. Additionally, strategically stocking seasonal or “limited edition” items on Mondays can drive curiosity and attract more visitors.
+
+-  Given Naypyitaw’s lead, it may be beneficial to strengthen brand presence there with more community-based promotions and advertisements. For Mandalay and Yangon, enhancing local engagement with sponsored events or partnerships with nearby businesses could increase visibility. In addition, specific promotions tailored to the needs or preferences of each city’s demographic—like student discounts in university areas or family-friendly deals in suburban locations—can help each branch connect with its local community, increasing foot traffic and revenue.
+
+- Ensuring that each branch is fully equipped and prepared to handle its preferred payment method will streamline the checkout process and create a more positive shopping experience. Additionally, incentivizing e-wallet use in cities where digital payments are less common could promote faster, more secure transactions. Sunny Market could consider offering a 5% discount or cashback for e-wallet payments in cash-dominant Naypyitaw, while providing loyalty points for credit card use in Mandalay to increase digital engagement.
+
+- To grow the member base, consider exclusive “Member-Only” benefits like special discounts, priority access to new products, or even a monthly “Members’ Day” with increased rewards. Additionally, offering non-members incentives to sign up at checkout—such as a one-time 10% discount or extra points for their first purchase—could encourage more shoppers to join the program. These efforts would not only strengthen customer loyalty but also provide Sunny Market with valuable data on shopping behaviors, enhancing the effectiveness of future marketing strategies.
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
