@@ -50,6 +50,8 @@ The data used for this analysis was obtained directly from Kaggle with the provi
 ## Project Objectives
 - Evaluate Performance Across Branches: Analyze the sales performance across the 3 branches, identifying trends and differences in monthly sales figures among them.
 
+- Sales performance of product lines: To analyze the percentage sales of each product line, identify trends in customer demand, and optimize inventory and marketing strategies to align with product performance.
+
 - Total Sales by Product Line and Gender: Assess total sales for each of the 6 product lines, segmented by gender. This will help understand customer preferences and demand for each product line by gender.
 
 - Customer Type Segmentation: Break down sales data by customer type to understand the proportion of repeat versus new customers and how each type contributes to monthly sales.
