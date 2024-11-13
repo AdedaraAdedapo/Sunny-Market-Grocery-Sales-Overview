@@ -68,8 +68,7 @@ The data used for this analysis was obtained directly from Kaggle with the provi
 
 ![Sunny](https://github.com/user-attachments/assets/c4e602b0-3707-4535-9e30-17a84f4efab8)
 
-![ase](https://github.com/user-attachments/assets/e2574c81-ab7e-49f6-8c61-d635820f728b)
-
+![beta](https://github.com/user-attachments/assets/66905e29-558f-4ad2-a2be-195bd7d83d20)
 
 
 
