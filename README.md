@@ -66,9 +66,11 @@ The data used for this analysis was obtained directly from Kaggle with the provi
 
 ## Visualization
 
-![Sunny](https://github.com/user-attachments/assets/c4e602b0-3707-4535-9e30-17a84f4efab8)
+![pixel](https://github.com/user-attachments/assets/82235a1e-a804-4e50-8490-58de6102a2c1)
 
-![beta](https://github.com/user-attachments/assets/66905e29-558f-4ad2-a2be-195bd7d83d20)
+![pixel 2](https://github.com/user-attachments/assets/95c4e0cd-fdd6-4a8f-b4e8-e6c18ca29d48)
+
+
 
 
 
