@@ -89,7 +89,7 @@ The data used for this analysis was obtained directly from Kaggle with the provi
   Gender-specific sales trends show that female customers prefer Food and Beverages, while male customers tend to buy more from the Health and Beauty line. This insight suggests that different product categories are likely associated with specific customer needs or preferences, which can inform targeted marketing efforts and in-store product placement.
 
 - ### Daily Sales Performance
-  Sales are highest on Saturdays and lowest on Mondays, likely due to typical shopping behaviors. With Saturday bringing in $36,120.81 in sales, it’s clear that weekends are when most customers prefer to shop, possibly using their time off to restock household essentials. Meanwhile, Monday’s quieter day with $3,789.90 in sales presents an opportunity to increase traffic and improve the store’s overall weekly revenue.
+  Sales are highest on Saturdays and lowest on Mondays, likely due to typical shopping behaviors. With Saturday bringing in $56,120.81 in sales, it’s clear that weekends are when most customers prefer to shop, possibly using their time off to restock household essentials. Meanwhile, Monday’s quieter day with $37,899.08 in sales presents an opportunity to increase traffic and improve the store’s overall weekly revenue.
 
 - ### Sales by City
    Naypyitaw leads in city-based sales at $110,568, marginally outpacing Yangon and Mandalay. This shows a slightly higher concentration of shoppers in Naypyitaw but also emphasizes Sunny Market’s ability to reach a broad audience across regions. Each city’s sales performance offers insight into regional demand, indicating potential areas for growth and targeted marketing.
