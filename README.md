@@ -83,7 +83,7 @@ The data used for this analysis was obtained directly from Kaggle with the provi
     The three branches exhibit a closely matched sales performance, with Branch C slightly leading the pack with 34.24% of total sales. This consistency shows that Sunny Market has established a steady demand across locations. However, a closer look reveals potential to optimize Branch A and B’s performance, bringing them in line with or beyond Branch C’s output. There may be untapped demand in those areas that could be met with enhanced store layout, additional services, or better promotional activities.
   
 - ### Product Line Sales Distribution
-  The relatively even distribution among product lines, with Food and Beverages slightly leading, suggests that Sunny Market’s diverse product range resonates well with customers. This balance across product lines, however, could mean that certain high-margin products aren’t reaching their potential, as no single category has emerged as a clear favorite.
+  The relatively even distribution among product lines, with Food and Beverages slightly leading with 17.38%,suggests that Sunny Market’s diverse product range resonates well with customers. This balance across product lines, however, could mean that certain high-margin products aren’t reaching their potential, as no single category has emerged as a clear favorite.
 
 - ### Sales Performance of product line by Gender
   Gender-specific sales trends show that female customers prefer Food and Beverages, while male customers tend to buy more from the Health and Beauty line. This insight suggests that different product categories are likely associated with specific customer needs or preferences, which can inform targeted marketing efforts and in-store product placement.
