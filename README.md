@@ -36,7 +36,7 @@ The data used for this analysis was obtained directly from Kaggle with the provi
 - Invoice ID: A unique identifier assigned to each transaction for tracking and reference.
 - Branch: The specific Sunny Market branch where the transaction occurred.
 - City: The city in which the branch is located.
-- Customer Type: Classification of the customer, e.g., "Member" or "Non-member," for loyalty tracking.
+- Customer Type: Classification of the customer, e.g., "Member" or "Normal" for loyalty tracking.
 - Gender: The gender of the customer, providing insight into demographic preferences.
 - Product Line: The category or type of product sold, e.g., "Electronics" or "Clothing."
 - Unit Price: Price of a single unit of the product before taxes.
