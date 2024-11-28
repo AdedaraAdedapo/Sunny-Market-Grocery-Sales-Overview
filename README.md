@@ -1,4 +1,4 @@
-we# Sunny Market Grocery Sales
+# Sunny Market Grocery Sales
 
 ## Project Overview
 
